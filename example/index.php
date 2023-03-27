@@ -1,5 +1,5 @@
 <?php
-use DarkNet\Speed;
+use Darknet\Speed;
 
 require 'vendor/autoload.php';
 
